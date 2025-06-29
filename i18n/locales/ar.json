@@ -1,0 +1,93 @@
+{
+  "title": "الصفحة الرئيسية",
+  "description": "مرحبًا بك في موقعنا!",
+  "welcomeMessage": "أهلاً وسهلاً بك في موقعنا الإلكتروني. نحن هنا لمساعدتك في كل ما تحتاجه.",
+  "contactUs": "اتصل بنا",
+  "learnMore": "تعرف على المزيد",
+  "footerText": "جميع الحقوق محفوظة © 2023",
+  "common": {
+    "Brand_Name": "اسم المنصه",
+    "language": "اللغة",
+    "loading": "جاري التحميل...",
+    "success": "تم بنجاح",
+    "close": "إغلاق",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "search": "بحث",
+    "filter": "تصفية",
+    "clear": "مسح",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "footer": {
+    "copyright": "جميع الحقوق محفوظة © 2023",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة"
+  },
+  "home": {
+    "title": "مرحباً بك في منصتنا",
+    "subtitle": "حديثة، متجاوبة ومتعددة اللغات",
+    "description": "أنشئ تطبيقات ويب مذهلة باستخدام Nuxt.js و Bootstrap ودعم i18n.",
+    "cta": "ابدأ الآن",
+    "features": {
+      "title": "لماذا تختارنا",
+      "responsive": "تصميم متجاوب",
+      "responsive_desc": "مثالي على جميع الأجهزة وأحجام الشاشات",
+      "multilingual": "دعم متعدد اللغات",
+      "multilingual_desc": "دولية مدمجة للوصول العالمي",
+      "modern": "تقنية حديثة",
+      "modern_desc": "مبني بأحدث تقنيات الويب"
+    }
+  },
+  "courses": {
+    "title": "دوراتنا",
+    "allCategories": "جميع الفئات",
+    "webDevelopment": "تطوير الويب",
+    "mobileDevelopment": "تطوير الموبايل",
+    "design": "التصميم",
+    "business": "الأعمال",
+    "enroll": "سجل الآن",
+    "enrollNow": "سجل الآن",
+    "viewCourse": "عرض الدورة",
+    "description": "الوصف",
+    "whatYouWillLearn": "ما ستتعلمه",
+    "duration": "المدة",
+    "level": "المستوى",
+    "curriculum": "منهج الدورة",
+    "instructor": "المدرب",
+    "relatedCourses": "الدورات ذات الصلة",
+    "moneyBackGuarantee": "ضمان استرداد الأموال لمدة 30 يوم",
+    "fullLifetimeAccess": "وصول كامل مدى الحياة",
+    "accessOnMobileAndTV": "الوصول على الهاتف والتلفاز",
+    "certificateOfCompletion": "شهادة إتمام الدورة",
+    "downloadableResources": "موارد قابلة للتحميل"
+  },
+  "about": {
+    "title": "من نحن",
+    "content": "نحن فريق متحمس مكرس لإنشاء تجارب ويب استثنائية.",
+    "mission": "مهمتنا",
+    "mission_content": "تقديم حلول مبتكرة تمكّن الشركات والمطورين."
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "info": {
+      "title": "تواصل معنا",
+      "description": "نود أن نسمع منك. أرسل لنا رسالة وسنرد عليك في أقرب وقت ممكن."
+    },
+    "form": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "message": "الرسالة",
+      "send": "إرسال الرسالة"
+    }
+  }
+}
+

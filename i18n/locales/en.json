@@ -1,0 +1,92 @@
+{
+    "title": "Home",
+    "description": "Welcome to our website!",
+    "welcomeMessage": "Welcome to our website. We are here to help you with everything you need.",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "footerText": "All rights reserved © 2023",
+    "common": {
+        "Brand_Name": "Brand Name",
+        "language": "Language",
+        "loading": "Loading...",
+        "success": "Success",
+        "close": "Close",
+        "save": "Save",
+        "cancel": "Cancel",
+        "submit": "Submit",
+        "search": "Search",
+        "filter": "Filter",
+        "clear": "Clear",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous"
+    },
+    "navigation": {
+        "home": "Home",
+        "courses": "Courses",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "footer": {
+        "copyright": "All rights reserved © 2023",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    },
+    "home": {
+        "title": "Welcome to Our Platform",
+        "subtitle": "Modern, Responsive & Multilingual",
+        "description": "Build amazing web applications with Nuxt.js, Bootstrap, and i18n support.",
+        "cta": "Get Started",
+        "features": {
+            "title": "Why Choose Us",
+            "responsive": "Responsive Design",
+            "responsive_desc": "Perfect on all devices and screen sizes",
+            "multilingual": "Multilingual Support",
+            "multilingual_desc": "Built-in internationalization for global reach",
+            "modern": "Modern Technology",
+            "modern_desc": "Built with the latest web technologies"
+        }
+    },
+    "courses": {
+        "title": "Our Courses",
+        "allCategories": "All Categories",
+        "webDevelopment": "Web Development",
+        "mobileDevelopment": "Mobile Development",
+        "design": "Design",
+        "business": "Business",
+        "enroll": "Enroll",
+        "enrollNow": "Enroll Now",
+        "viewCourse": "View Course",
+        "description": "Description",
+        "whatYouWillLearn": "What You Will Learn",
+        "duration": "Duration",
+        "level": "Level",
+        "curriculum": "Course Curriculum",
+        "instructor": "Instructor",
+        "relatedCourses": "Related Courses",
+        "moneyBackGuarantee": "30-Day Money-Back Guarantee",
+        "fullLifetimeAccess": "Full lifetime access",
+        "accessOnMobileAndTV": "Access on mobile and TV",
+        "certificateOfCompletion": "Certificate of completion",
+        "downloadableResources": "Downloadable resources"
+    },
+    "about": {
+        "title": "About Us",
+        "content": "We are a passionate team dedicated to creating exceptional web experiences.",
+        "mission": "Our Mission",
+        "mission_content": "To provide innovative solutions that empower businesses and developers."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "info": {
+            "title": "Get in Touch",
+            "description": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+        },
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "message": "Message",
+            "send": "Send Message"
+        }
+    }
+}
